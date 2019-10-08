@@ -1,0 +1,46 @@
+body {
+    background: #fefefe;
+}
+
+.mainHeader {
+    color: white;
+    background: black;
+}
+
+.sectionHeader {
+    color: #1460AA;
+    font-size: 26px;
+}
+
+.diaryHeader {
+    color: white;
+    background: blue;
+}
+
+.paragraph {
+    color: darkblue;
+}
+
+.dayMonday {
+    color: #8b8b8b;
+}
+
+.dayTuesday {
+    color: #004200;
+}
+
+.dayWednesday {
+    color: #807f7f;
+}
+
+.dayThursday {
+    color: #ff9100;
+}
+
+.dayFriday {
+    color: #700101;
+}
+
+.dayHtml {
+    color: #020286;
+}

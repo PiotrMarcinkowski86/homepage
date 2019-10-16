@@ -1,5 +1,5 @@
 body {
-    background: #b4b4b4;
+    background: #f7f6f6;
 }
 
 .mainHeader {
@@ -10,6 +10,10 @@ body {
 .sectionHeader {
     color: #1b6ab9;
     font-size: 26px;
+}
+
+.thirdHeader {
+    color: #4BB3FD
 }
 
 .diaryHeader {
@@ -43,4 +47,13 @@ body {
 
 .dayHtml {
     color: #020286;
+}
+
+.link {
+    color: #A2D729;
+}
+.about {
+    width: 100%;
+    max-width: 700px;
+    height: 300px;
 }

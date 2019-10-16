@@ -2,9 +2,14 @@ body {
     background: #f7f6f6;
 }
 
+.topMenu {
+    background: #707070;
+    color: black;
+}
 .mainHeader {
     color: white;
     background: black;
+    margin-bottom: 40px;
 }
 
 .sectionHeader {
@@ -23,6 +28,9 @@ body {
 
 .paragraph {
     color: darkblue;
+    padding: 0 16px 10px 16px;
+    border-bottom: 3px dotted #82db0e;
+    border-radius: 25px;
 }
 
 .dayMonday {
@@ -53,7 +61,12 @@ body {
     color: #A2D729;
 }
 .about {
+    
+}
+
+.main {
     width: 100%;
     max-width: 700px;
-    height: 300px;
+    height: 100%;
+    margin: 30px auto;
 }
